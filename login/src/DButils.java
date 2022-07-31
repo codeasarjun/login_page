@@ -57,7 +57,7 @@ public class DButils {
         ResultSet resultSet = null;
         String url = "jdbc:postgresql://localhost/one";
         String user = "postgres";
-        String pass = "Gur@2021";
+        String pass = "yourpassword for DB";
 
         try {
             con = DriverManager.getConnection(url, user, pass);
@@ -125,7 +125,7 @@ public class DButils {
         ResultSet resultSet = null;
         String url = "jdbc:postgresql://localhost/one";
         String user = "postgres";
-        String pass = "Gur@2021";
+        String pass = "your_password";
 
         try {
             con = DriverManager.getConnection(url, user, pass);
