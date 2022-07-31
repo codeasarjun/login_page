@@ -62,7 +62,7 @@ public class delete_User {
         //ResultSet resultSet = null;
         String url = "jdbc:postgresql://localhost/one";
         String user = "postgres";
-        String pass = "Gur@2021";
+        String pass = "yourpassa";
         String sql;
     try {
         con=DriverManager.getConnection(url, user, pass);
@@ -109,7 +109,7 @@ if(user_id_for_del.getText().trim().isEmpty())
         ResultSet resultSet = null;
         String url = "jdbc:postgresql://localhost/one";
         String user = "postgres";
-        String pass = "Gur@2021";
+        String pass = "yuourpass";
         try {
             con = DriverManager.getConnection(url, user, pass);
             preparedStatement = con.prepareStatement(query);
@@ -143,7 +143,7 @@ if(user_id_for_del.getText().trim().isEmpty())
         ResultSet resultSet = null;
         String url = "jdbc:postgresql://localhost/one";
         String user = "postgres";
-        String pass = "Gur@2021";
+        String pass = "yourpass";
         
         try {
             con = DriverManager.getConnection(url, user, pass);
