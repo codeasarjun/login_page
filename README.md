@@ -4,6 +4,6 @@ JavaFX application with user registration and other functionalities such as addi
 visual -- 
 <img src='https://github.com/codeasarjun/login_page/blob/main/pics/login_home.png'>
 
-<img src ='https://github.com/codeasarjun/login_page/blob/main/pics/login_home_welcome_page.png'>
+<img src ='https://github.com/codeasarjun/login_page/blob/main/pics/login_home_welcome_page.png'> 
 <img src='https://github.com/codeasarjun/login_page/blob/main/pics/login_new_user.png'>
 <img src='https://github.com/codeasarjun/login_page/blob/main/pics/login_new_user_validation.png'>
