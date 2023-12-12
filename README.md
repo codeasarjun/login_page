@@ -1,5 +1,5 @@
 # login_page
-JavaFX application with user registration and other functionalities such as adding, removing, editing the database.
+JavaFX application with user registration and other functionalities such as adding, removing, editing the database. 
 
 visual -- 
 <img src='https://github.com/codeasarjun/login_page/blob/main/pics/login_home.png'>
